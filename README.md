@@ -1,8 +1,9 @@
-archivo readem
+https://gndtovcc.home.blog/2020/04/13/esp8266-dht11-dht22-temperature-and-humidity-web-server-with-arduino-ide/
 
-![image](https://user-images.githubusercontent.com/64314988/114225104-50f72000-9948-11eb-9111-3a8a7e995f6f.png)
+## Library
 
-![image](https://user-images.githubusercontent.com/64314988/114225335-97e51580-9948-11eb-8cea-746d674af63e.png)
+ESP8266 Asynchronous Web Server
+https://github.com/me-no-dev/ESPAsyncWebServer
 
-fsdfdsfasf
-dsfadsf
+ESPAsync TCP Library
+https://github.com/me-no-dev/ESPAsyncTCP
