@@ -11,3 +11,7 @@ https://github.com/me-no-dev/ESPAsyncTCP
 ## Circuit
 <img src="img/ESP8266%20DHT22%20Circuit.png" alt="Circuito" width="200"/>
 // ![](img/ESP8266%20DHT22%20Circuit.png)
+
+## Print Screen
+<img src="img/PrintScreen.png.png" alt="Circuito" width="200"/>
+
