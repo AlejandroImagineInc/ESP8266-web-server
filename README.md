@@ -9,4 +9,4 @@ ESPAsync TCP Library
 https://github.com/me-no-dev/ESPAsyncTCP
 
 ## Circuit
-![](img/ESP8266 DHT22 Circuit.png)
+![](img/ESP8266%20DHT22%20Circuit.png)
